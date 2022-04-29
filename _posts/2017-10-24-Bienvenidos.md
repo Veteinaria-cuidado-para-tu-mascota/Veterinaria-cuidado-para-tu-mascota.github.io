@@ -1,16 +1,32 @@
-[PRODUCTOS]
+PRODUCTOS
 
 
 
 
 Alimento para mascota
+
+
 Vacunas
+
+
 Juguetes
+
+
 Collares
+
+
 Correas
+
+
 Placas
+
+
 Productos de higiene 
+
+
 Camas 
+
+
 Tapetes
 
 
