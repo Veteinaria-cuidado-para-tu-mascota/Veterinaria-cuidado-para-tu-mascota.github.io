@@ -17,7 +17,7 @@ Dr. Katia Guzman
 ![image](https://user-images.githubusercontent.com/100052822/166015792-bbfb4b1c-0261-4df7-9423-033de1eadb46.png)
 
 
-  Clientes satisfechoS.
+  Clientes satisfechos.
 
 
 
