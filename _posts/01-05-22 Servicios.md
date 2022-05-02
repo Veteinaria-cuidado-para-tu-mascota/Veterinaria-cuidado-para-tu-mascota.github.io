@@ -1,1 +1,0 @@
-*Lavado de oidos 
